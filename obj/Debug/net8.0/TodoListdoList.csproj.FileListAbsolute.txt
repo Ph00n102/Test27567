@@ -27,3 +27,7 @@ C:\test\TodoListdoList\obj\Debug\net8.0\refint\TodoListdoList.dll
 C:\test\TodoListdoList\obj\Debug\net8.0\TodoListdoList.pdb
 C:\test\TodoListdoList\obj\Debug\net8.0\TodoListdoList.genruntimeconfig.cache
 C:\test\TodoListdoList\obj\Debug\net8.0\ref\TodoListdoList.dll
+C:\test\TodoListdoList\bin\Debug\net8.0\BlazorBootstrap.dll
+C:\test\TodoListdoList\obj\Debug\net8.0\TodoListdoList.csproj.AssemblyReference.cache
+C:\test\TodoListdoList\obj\Debug\net8.0\TodoListdoList.sourcelink.json
+C:\test\TodoListdoList\obj\Debug\net8.0\TodoList.10A4A369.Up2Date
